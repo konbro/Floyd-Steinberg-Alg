@@ -1,0 +1,3 @@
+LIBRARY AsmLibrary
+EXPORTS
+	TransformPixelAsm

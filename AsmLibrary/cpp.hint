@@ -1,0 +1,2 @@
+#define ASMLIBRARY_API _declspec(dllexport)
+#define ASMLIBRARY_API _declspec(dllimport)
